@@ -4,7 +4,7 @@ output:
   pdf_document: default
 ---
 
-Modern Data Structures
+Modern Data Structures - NEW
 ======================
 
 QMSS G5072 - Columbia University
